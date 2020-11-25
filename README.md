@@ -12,7 +12,7 @@
 * [Contact](#contact)
 
 ## General info
-The goal was to practice EJS, node.js, learn more about basic templating, partials etc.
+The goal was to practice EJS, node.js and learn more about basic templating, partials etc.
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
