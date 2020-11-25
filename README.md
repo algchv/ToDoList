@@ -28,25 +28,25 @@ $ npm install
 $ npm start
 ```
 
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
-
 ## Features
 List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+* Shows the current date & month
+* Add new to do list items
+* Check off your list items
 
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+Future plans:
+* Add a small navbar for different purposes like (work related list, gym workout etc.)
+* Make it prettier
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+Project is: _in progress_
 
 ## Inspiration
-Add here credits. Project inspired by..., based on...
+Project inspired by Angela Yu, based on Udemy Web Dev Bootcamp
 
 ## Contact
-Created by - feel free to contact me!
+Created by - Alex logachev, feel free to contact me!
+
+
+
+PS. This is my first proper readme file, so there might be some issues, don't be angry :)
