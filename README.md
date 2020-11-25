@@ -29,8 +29,8 @@ $ npm start
 ```
 
 ## Features
-List of features ready and TODOs for future development
-* Shows the current date & month
+Ready:
+* Show the current date & month
 * Add new to do list items
 * Check off your list items
 
