@@ -1,5 +1,5 @@
 # Project Name
-> A simple ToDoList project made with EJS and node.js
+> A simple ToDoList made with EJS and node.js
 
 ## Table of contents
 * [General info](#general-info)
