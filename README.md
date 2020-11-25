@@ -20,6 +20,8 @@ The goal was to practice EJS, node.js and learn more about basic templating, par
 ## Technologies
 * EJS
 * node.js
+** express
+** body-parser
 
 ## Setup
 ```
