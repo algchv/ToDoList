@@ -22,7 +22,11 @@ The goal was to practice EJS, node.js and learn more about basic templating, par
 * node.js
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
+```
+$ cd ../ToDoList-main
+$ npm install
+$ npm start
+```
 
 ## Code Examples
 Show examples of usage:
