@@ -1,5 +1,5 @@
 # Project Name
-> Here goes your awesome project description!
+> A simple ToDoList project made with EJS and node.js
 
 ## Table of contents
 * [General info](#general-info)
@@ -12,15 +12,14 @@
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+The goal was to practice EJS, node.js, learn more about basic templating, partials etc.
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
 
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* EJS
+* node.js
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
