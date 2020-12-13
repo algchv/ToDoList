@@ -47,7 +47,7 @@ Project is: _in progress_
 Project inspired by Angela Yu, based on Udemy Web Dev Bootcamp
 
 ## Contact
-Created by - Alex logachev, feel free to contact me!
+Created by - Alex Logachev, feel free to contact me!
 
 
 
